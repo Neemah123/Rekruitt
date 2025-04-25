@@ -265,7 +265,7 @@ const Hero = () => {
               It is totally free!!! <br />
               you only need to register by creating an account
               <br />
-              and follow the easy registration process.
+              and follow the registration process.
             </p>
           </div>
           <div className="mobsteps">
