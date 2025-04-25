@@ -10,7 +10,7 @@ import SignIn from "./pages/SignIn/SignIn.jsx";
 import PostaJob from "./pages/PostaJob/PostaJob.jsx";
 import Hero from "./pages/Hero/Hero.jsx";
 import Faq from "./pages/Faq/Faq.jsx";
-import DashBoard from "./DashBoard.jsx";
+import DashBoard from "./Dashboard.jsx";
 import Home from "./pages/Home/Home.jsx";
 import ManageVacancies from "./pages/ManageVacancies/ManageVacancies.jsx";
 import ManageApplicants from "./pages/ManageApplicants/ManageApplicants.jsx";
