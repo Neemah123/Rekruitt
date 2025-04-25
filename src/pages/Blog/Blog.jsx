@@ -30,7 +30,7 @@ const Blog = () => {
       <div className="blog_subscribe">
         <h3>Do you want to read more?</h3>
         <p>
-          Subcribe to our blog notifications and let’s help you take your career
+          Subscribe to our blog notifications and let’s help you take your career
           to the next level
         </p>
         <div>
