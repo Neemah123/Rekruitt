@@ -1,9 +1,9 @@
 import React from 'react';
 import "./BrowseJobs.css";
-import {BiLocationPlus} from "react-icons/Bi";
-import {RiBriefcase4Line } from "react-icons/Ri";
-import {FiBookmark} from "react-icons/Fi";
-import {FiShare2} from "react-icons/Fi";
+import {BiLocationPlus} from "react-icons/bi";
+import {RiBriefcase4Line } from "react-icons/ri";
+import {FiBookmark} from "react-icons/fi";
+import {FiShare2} from "react-icons/fi";
 import { Link } from "react-router-dom";
 
 const BrowseJobs = () => {
